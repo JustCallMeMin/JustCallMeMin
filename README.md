@@ -53,5 +53,5 @@ Repository: [github.com/JustCallMeMin/syncraft](https://github.com/JustCallMeMin
 ## Contact
 
 - GitHub: [JustCallMeMin](https://github.com/JustCallMeMin)
-- Email: add-your-email@example.com
-- LinkedIn: add-your-linkedin-url
+- Email: hoangminh332001@gmail.com
+- LinkedIn: www.linkedin.com/in/hoangminhbackend
